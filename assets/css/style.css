@@ -2,7 +2,7 @@
   font-size: 70px;
   margin-bottom: 10px; }
 
-.jumbotron {
+.jumbotron-main {
   background-image: linear-gradient(rgba(5, 5, 8, 0.65), rgba(114, 114, 114, 0.45)), url(../img/background.jpg);
   background-size: cover; }
 
@@ -10,14 +10,36 @@
   margin-bottom: 20px; }
 
 .navbar {
-  background-image: linear-gradient(rgba(5, 5, 8, 0.85), rgba(16, 49, 59, 0.85)), url(../img/background.jpg);
+  background-image: linear-gradient(rgba(18, 46, 63, 0.45), rgba(16, 49, 59, 0.45)), url(../img/background.jpg);
   background-size: cover; }
 
 .carousel-caption {
   background: linear-gradient rgba(5, 5, 8, 0.86), rgba(114, 114, 114, 0.45); }
 
-body {
-  background-color: #b1bec2;
-  background: linear-gradient rgba(5, 5, 8, 0.45), rgba(114, 114, 114, 0.45); }
+body,
+.card-body {
+  background-color: #1c3749;
+  background: linear-gradient rgba(5, 5, 8, 0.45), rgba(114, 114, 114, 0.45);
+  color: white; }
+
+.carry {
+  margin-top: 50px;
+  margin-bottom: 50px; }
+
+.pic {
+  margin-top: 40px; }
+
+.jumbotron-about {
+  background-image: linear-gradient(rgba(5, 5, 8, 0.85), rgba(16, 49, 59, 0.85)), url(../img/nyc_curbedcup_main.0.jpg);
+  background-size: cover; }
+
+.buyersicon {
+  font-size: 150px; }
+
+.img {
+  border-radius: 10px; }
+
+.breakground {
+  background: transparent, linear-gradient(rgba(5, 5, 8, 0.85), rgba(16, 49, 59, 0.85)); }
 
 /*# sourceMappingURL=style.css.map */
