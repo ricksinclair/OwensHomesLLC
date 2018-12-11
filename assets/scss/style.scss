@@ -21,3 +21,11 @@
     url(../img/background.jpg);
   background-size: cover;
 }
+
+.carousel-caption {
+  background: linear-gradient (rgba(5, 5, 8, 0.86), rgba(114, 114, 114, 0.45));
+}
+body {
+  background-color: rgb(177, 190, 194);
+  background: linear-gradient (rgba(5, 5, 8, 0.45), rgba(114, 114, 114, 0.45));
+}

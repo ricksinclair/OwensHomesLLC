@@ -13,4 +13,11 @@
   background-image: linear-gradient(rgba(5, 5, 8, 0.85), rgba(16, 49, 59, 0.85)), url(../img/background.jpg);
   background-size: cover; }
 
+.carousel-caption {
+  background: linear-gradient rgba(5, 5, 8, 0.86), rgba(114, 114, 114, 0.45); }
+
+body {
+  background-color: #b1bec2;
+  background: linear-gradient rgba(5, 5, 8, 0.45), rgba(114, 114, 114, 0.45); }
+
 /*# sourceMappingURL=style.css.map */
