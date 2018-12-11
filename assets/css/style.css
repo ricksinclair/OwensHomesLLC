@@ -1,0 +1,16 @@
+.call-to-action-jumbotron {
+  font-size: 70px;
+  margin-bottom: 10px; }
+
+.jumbotron {
+  background-image: linear-gradient(rgba(5, 5, 8, 0.65), rgba(114, 114, 114, 0.45)), url(../img/background.jpg);
+  background-size: cover; }
+
+.card {
+  margin-bottom: 20px; }
+
+.navbar {
+  background-image: linear-gradient(rgba(5, 5, 8, 0.85), rgba(16, 49, 59, 0.85)), url(../img/background.jpg);
+  background-size: cover; }
+
+/*# sourceMappingURL=style.css.map */
