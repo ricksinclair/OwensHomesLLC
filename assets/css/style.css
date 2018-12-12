@@ -44,4 +44,11 @@ body,
   border-radius: 50%;
   image-rendering: optimizeSpeed; }
 
+#index,
+#about,
+#services,
+#main {
+  margin-top: 150px;
+  margin-bottom: 150px; }
+
 /*# sourceMappingURL=style.css.map */
